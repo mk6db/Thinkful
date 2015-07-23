@@ -1,1 +1,1 @@
-print "Hello, World, my name is Michael"
+print "this is a test"
